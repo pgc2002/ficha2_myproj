@@ -1,3 +1,7 @@
-acrescentei umas 
-linhas
-:D
+<h2>Bebidas</h2>
+
+<ul>
+	<li>Coffee</li>
+	<li>Tea</li>
+	<li>Milk</li>
+</ul>
